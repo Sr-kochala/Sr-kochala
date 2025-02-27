@@ -11,6 +11,7 @@
 - 🌱 I’m currently developing professionally in **Data Science.**
 - 🏡 Lives in **Cochabamba, Bolivia**
 - 💬 Ask me about Data Analysis, Visualization and Machine Learning algorithms.
+- How to reach me: Riam
 - ⚡ Fun fact: I play volleyball, ride a bike and enjoy walking.
 
 
